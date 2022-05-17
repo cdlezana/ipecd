@@ -1,11 +1,24 @@
-<h1> ipecd</h1>
+# ipecd
 
-<h2>Instituto Provincial de Estadística y Ciencia de Datos.</h2>
+## Instituto Provincial de Estadística y Ciencia de Datos.
 
 <h3>Demo de visualizaciones</h3>
 
-<p> Población de los Departamentos Almirante Brown y General Guemes de la Provincia del Chaco.</p> [VER](https://cdlezana.github.io/ipecd/Poblac_RM_FL.html) 
+- **Población de los Departamentos Almirante Brown y General Guemes de la Provincia del Chaco.**   
+Variación según localidades que componen el departamento. 
+  Ronda 2001, 2010 y proyección de población para el año 2022. [VER](https://cdlezana.github.io/ipecd/Poblac_RM_FL.html)  
   
-<h5>Fuente:Censo de Población, viviendas y hogares rondas 2001, 2010 y proyección 2022.</h5>
-<h6>Refresentado Flourish</h6>  
-<h6>Autor: Claudio Lezana.</h6>
+###### Fuente:Censo de Población, viviendas y hogares rondas 2001, 2010 y proyección 2022 INDEC- Refresentado Flourish-Autor:Claudio Lezana.
+
+
+- **Población de los Departamentos Almirante Brown y General Guemes de la Provincia del Chaco.**   
+Variación según localidades que componen el departamento(Historia). 
+  Ronda 2001, 2010 y proyección de población para el año 2022. [VER](https://cdlezana.github.io/ipecd/Poblac_RM_FL_Hist.html)  
+  
+###### Fuente:Censo de Población, viviendas y hogares rondas 2001, 2010 y proyección 2022 INDEC- Refresentado Flourish-Autor:Claudio Lezana.
+
+
+
+
+
+
