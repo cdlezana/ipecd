@@ -18,6 +18,10 @@ Variación según localidades que componen el departamento(Historia).
 ###### Fuente:Censo de Población, viviendas y hogares rondas 2001, 2010 y proyección 2022 INDEC- Refresentado Flourish-Autor:Claudio Lezana.
 
 
+- **Conexion a internet en establecimientos educativos de la Provincia del Chaco.**   
+. [VER](https://cdlezana.github.io/ipecd/Chaco_conex_esc.html)  
+  
+###### Fuente:Ministerio de Educación de la Provincia del Chaco- Refresentado Tableau-Autor:Claudio Lezana.
 
 
 
