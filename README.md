@@ -41,7 +41,7 @@ Identificación tomando referencia de Fracción y Radio censal ronda 2022. [VER]
 - **Informe de relevamiento EPH - Área Metropolitana Gran Resistenca - San Fernando de la Provincia del Chaco.**   
 Relevamiento de viviendas Encuesta Permanente de Hogares, tomando referencia desde 1er. trimestre 2022 hasta 4to. trimestre 2023. 
 Detallando según la figura de encuesta "Efectiva". [VER]
-(https://cdlezana.github.io/ipecd/Eph_AMGR_Informe.html
+(https://cdlezana.github.io/ipecd/Eph_AMGR_Informe.html)
 
 ###### Fuente:EPH - Dirección Relevamiento y Encuestas  - Refresentado Tableau-Autor:Claudio Lezana.
 
