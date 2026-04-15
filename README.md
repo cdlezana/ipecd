@@ -99,7 +99,7 @@ Cálculos realizados mediante las fórmulas: . [VER](https://cdlezana.github.io/
   
 ###### Fuente:Censo de Población, viviendas y hogares rondas 2001, 2010 y 2022 INDEC- Refresentado Tableau Public-Autor: Marisel Dellamea - Claudio Lezana.
 
-- **Población Originaría Mayores a 15 años - por departamento y Municipio de la Provincia del Chaco 2025.**   
+- **Población Originaría Mayores a 15 años - por Departamento y Municipio de la Provincia del Chaco 2025.**   
 Población total de personas de pueblos originarios año 2022. [VER](https://cdlezana.github.io/DiPIET/Chaco_Pueblos_Originarios_2022_IDACH_INDEC.html)  
   
 ###### Fuente:Censo de Población, viviendas y hogares ronda 2022 INDEC- Padrón electoral 2025 IDACH.
